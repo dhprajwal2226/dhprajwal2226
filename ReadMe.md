@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Prajwal DH  <br>🎓 5th Semester CSE Student | Bengaluru, India  <br>🚀 Currently Building: DHRISTI – SIH Project  <br>🧠 Currently Learning: AI/ML, Python, FastAPI & Knowledge Graphs  <br>💻 Interested In: AI, Software Development & Problem Solving  <br>🤝 Open To: Collaborations, Hackathons & Open Source  <br>🌱 Learning by building, experimenting and creating  <br>🎬 Fun Fact: I also create tech content at Prajwal Decodes!
+👋 Hi, I'm Prajwal DH  <br>🎓 5th Semester CSE Student | Bengaluru, India  <br>🚀 Currently Building: DHRISTI – SIH Project  <br>🧠 Currently Learning: AI/ML, Java, Cloud Computing  <br>💻 Interested In: AI, Software Development & Problem Solving  <br>🤝 Open To: Collaborations, Hackathons & Open Source  <br>🌱 Learning by building, experimenting and creating  <br>🎬 Fun Fact: I also create tech content at Prajwal Decodes!
 
 
 ## 🌐 Socials:
